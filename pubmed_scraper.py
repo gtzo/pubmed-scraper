@@ -4,7 +4,7 @@ import re
 import time
 
 usage_data = {
-                'email': 'gtzogana@gmail.com',
+                'email': 'email@gmail.com',
                 'tool': 'paper_scrape'
              }
 pmcids = []
